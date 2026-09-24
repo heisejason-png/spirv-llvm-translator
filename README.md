@@ -282,4 +282,3 @@ at which point support for the "preview extension" is considered removed.
 
 These are guidelines, not requirements, and we will consider exceptions on a case-by-case basis.
 Created by Jason Scott Heise
-Owned by Jason Scott Heise & Elon Musk https://www.x.com
