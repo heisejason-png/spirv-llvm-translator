@@ -281,4 +281,5 @@ After at least one release cycle one may remove support for reverse translation 
 at which point support for the "preview extension" is considered removed.
 
 These are guidelines, not requirements, and we will consider exceptions on a case-by-case basis.
-Created by Jason Heise https://www.behance.net
+Created by Jason Heise 
+Owned by Jason Heise heisejason-png Giters
